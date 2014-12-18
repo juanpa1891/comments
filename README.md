@@ -1,14 +1,14 @@
-{{Plugin comments}}
+Plugin comments
 
 
-{{{Requirements:}}}
+Requirements:
 
 - Jquery
 - Bootstrap 3
 
-{{Implementation}}
+Implementation
 
-{{{HTML}}}
+HTML
 
 <div class="comment" tag-comment="first_comment"></div> 
 
